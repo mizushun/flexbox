@@ -280,6 +280,8 @@ input[type=submit] {
 }
 
 .footer {
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
 	background-color: #282c33;
 	color: #fff;
 }

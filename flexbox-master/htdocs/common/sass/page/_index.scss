@@ -43,6 +43,7 @@
 //コンテンツが多ければ通常通りスクロール
 //positionもJSも使用禁止
 .footer{
+  flex-wrap: wrap;
   background-color: #282c33;
   color: #fff;
 
