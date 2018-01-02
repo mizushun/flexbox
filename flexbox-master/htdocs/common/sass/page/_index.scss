@@ -23,6 +23,7 @@
 
 //コンテンツは可変
 .article{
+  flex-grow: 2;
   background-color: #9eddef;
 
   /** ここから下に追記 **/
@@ -43,7 +44,6 @@
 //コンテンツが多ければ通常通りスクロール
 //positionもJSも使用禁止
 .footer{
-  flex-wrap: wrap;
   background-color: #282c33;
   color: #fff;
 
