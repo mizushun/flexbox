@@ -23,11 +23,10 @@
 
 //コンテンツは可変
 .article{
-  flex-grow: 2;
   background-color: #9eddef;
 
   /** ここから下に追記 **/
-
+  flex-grow: 1;
 }
 
 //サイドバーは200px固定

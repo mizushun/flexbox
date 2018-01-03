@@ -271,9 +271,9 @@ input[type=submit] {
 }
 
 .article {
-	-ms-flex-positive: 2;
-	flex-grow: 2;
 	background-color: #9eddef;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
 }
 
 .sidebar {
