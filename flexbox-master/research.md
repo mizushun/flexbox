@@ -1,7 +1,7 @@
 ## flex-wrapについて  
 
 ・flex-wrapは子要素の折り返しを指定する  
-　nowrap：改行をせずに表示する  
+  nowrap：改行をせずに表示する  
   wrap：親要素の幅に合わせて、子要素を改行する  
   wrap-reverse：「wrap」と同じく、改行を行うが、逆に改行を行う  
 
@@ -14,3 +14,7 @@
 
 ### 注意
 ・flex-wrapやflex-basisに影響される
+
+#### 参考サイト  
+https://dekiru.net/article/13237/[linkref]
+http://scene-live.com/page.php?page=58[linkref]
