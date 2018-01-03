@@ -5,6 +5,9 @@
   wrap：親要素の幅に合わせて、子要素を改行する  
   wrap-reverse：「wrap」と同じく、改行を行うが、逆に改行を行う  
 
+### 参考サイト  
+http://scene-live.com/page.php?page=57[linkref]  
+
 ## flex-growについて  
 
 ・flex-growは子要素の伸び率を指定する  
