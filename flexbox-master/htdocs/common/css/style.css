@@ -259,6 +259,11 @@ input[type=submit] {
 
 .wrap {
 	font-size: 1.6rem;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 .header {
@@ -268,12 +273,14 @@ input[type=submit] {
 .main {
 	display: -ms-flexbox;
 	display: flex;
+	-ms-flex: 1;
+	flex: 1;
 }
 
 .article {
 	background-color: #9eddef;
-	-ms-flex-positive: 1;
-	flex-grow: 1;
+	-ms-flex: 1;
+	flex: 1;
 }
 
 .sidebar {
